@@ -1,0 +1,29 @@
+body{
+    display:block;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
+h{
+    font-size: larger;
+    font-weight: bold;
+}
+
+p {
+    font-size: medium;
+}
+
+select {
+    font-size: large;
+
+}
+
+input {
+    font-size: large;
+    width: 120px;
+}
+
+button {
+    font-size:large;
+    margin-left: 5px;
+}
